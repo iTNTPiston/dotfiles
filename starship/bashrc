@@ -1,0 +1,3 @@
+# Load starship prompt
+export STARSHIP_CONFIG=/mnt/c/Users/Piston/.config/starship.toml # replace with path to config
+eval "$(starship init bash)"

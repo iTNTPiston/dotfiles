@@ -1,0 +1,2 @@
+# Bind Ctrl+D to exit
+Set-PSReadlineKeyHandler -Key ctrl+d -Function ViExit
